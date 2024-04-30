@@ -120,9 +120,9 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.artifacts
 .env
 .venv
+catboost_info/
 env/
 venv/
 ENV/
